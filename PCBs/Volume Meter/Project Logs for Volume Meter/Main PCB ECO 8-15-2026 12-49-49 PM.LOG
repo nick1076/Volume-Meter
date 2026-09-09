@@ -1,0 +1,47 @@
+Add Component: Footprint Not Found KEYSTONE_1035
+Add Component: Footprint Not Found KEYSTONE_1035
+Add Component: Footprint Not Found KEYSTONE_1035
+Add Component: Footprint Not Found KEYSTONE_1035
+Add Component: Footprint Not Found VREG_TLV1117LV33DCYR
+Add Component: Footprint Not Found MODULE_ESP32-C3-WROOM-02-H4
+Add Pin To Net: Unknown Pin: Pin TP1-TP
+Add Pin To Net: Unknown Pin: Pin TP2-TP
+Add Pin To Net: Unknown Pin: Pin TP3-TP
+Add Pin To Net: Unknown Pin: Pin TP4-TP
+Added Pin To Net: NetName=OE Pin=TP5-TP
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-3
+Add Pin To Net: Unknown Pin: Pin U4-4
+Add Pin To Net: Unknown Pin: Pin U4-7
+Add Pin To Net: Unknown Pin: Pin U4-9
+Add Pin To Net: Unknown Pin: Pin U4-11
+Add Pin To Net: Unknown Pin: Pin U4-12
+Add Pin To Net: Unknown Pin: Pin U4-13
+Add Pin To Net: Unknown Pin: Pin U4-14
+Add Pin To Net: Unknown Pin: Pin U4-15
+Add Pin To Net: Unknown Pin: Pin U4-16
+Add Pin To Net: Unknown Pin: Pin U4-17
+Add Pin To Net: Unknown Pin: Pin U4-18
+Added Member To Class: ClassName=Main Member=Component C1 330pF
+Added Member To Class: ClassName=Main Member=Component C4 1µF
+Added Member To Class: ClassName=Main Member=Component C6 4.7uF
+Added Member To Class: ClassName=Main Member=Component C9 0.1µF
+Added Member To Class: ClassName=Main Member=Component C10 0.1µF
+Added Member To Class: ClassName=Main Member=Component C13 100nF
+Added Member To Class: ClassName=Main Member=Component R1 5.1kO
+Added Member To Class: ClassName=Main Member=Component R4 5.1kO
+Added Member To Class: ClassName=Main Member=Component R7 100
+Added Member To Class: ClassName=Main Member=Component R12 10kO
+Added Member To Class: ClassName=Main Member=Component R18 1kO
+Added Member To Class: ClassName=Main Member=Component R20 1kO
+Add Class Member: Failed to add class member : Component TP1 1035
+Add Class Member: Failed to add class member : Component TP2 1035
+Add Class Member: Failed to add class member : Component TP3 1035
+Add Class Member: Failed to add class member : Component TP4 1035
+Add Class Member: Failed to add class member : Component U1 TLV1117LV33DCYR
+Add Class Member: Failed to add class member : Component U4 ESP32-C3-WROOM-02-N4

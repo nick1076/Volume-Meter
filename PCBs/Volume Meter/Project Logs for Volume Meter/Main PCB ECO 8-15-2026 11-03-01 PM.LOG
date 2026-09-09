@@ -1,0 +1,43 @@
+Change Component Comment : Designator=R13 Old Comment=1kO New Comment=470
+Change Component Comment : Designator=R14 Old Comment=1kO New Comment=470
+Change Component Comment : Designator=R15 Old Comment=1kO New Comment=470
+Change Component Comment : Designator=R16 Old Comment=1kO New Comment=470
+Change Component Comment : Designator=R17 Old Comment=1kO New Comment=470
+Change Component Comment : Designator=R18 Old Comment=1kO New Comment=470
+Change Component Comment : Designator=R20 Old Comment=1kO New Comment=470
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C13
+Change Component Designator: OldDesignator=C13 NewDesignator=C14
+Added Component: Designator=C9(FP-AC1206-0_85-IPC_C)
+Add component (AddParameter): Name = "Automotive"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive Grade"; Value = "Grade 1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "22 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.yageo.com/documents/recent/UPY-AC_NP0X7R_16V-to-630V_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Url"; Value = "http://www.yageo.com/exep/pages/download/literatures/UPY-C_GEN_24.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC320160X85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AC1206KRX7R0BB223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/ac1206krx7r0bb223-yageo-78873672"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "AC1206-0.85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "15%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=3V3 Pin=C9-2
+Added Member To Class: ClassName=Main Member=Component C14 100nF

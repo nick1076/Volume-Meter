@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=5V0 Pin=C13-2
+Removed Pin From Net: NetName=5V0 Pin=U5-10
+Removed Pin From Net: NetName=5V0 Pin=U5-16
+Change Component Comment : Designator=C5 Old Comment=1µF New Comment=10uF
+Change Component Description : Designator=TP1 Old Description=Test Point PC Slotted THM Height .335 Brass/Tin New Description=Test Point PC Slotted THM Height .335 Brass/Tin | Keystone Electronics 1035
+Change Component Description : Designator=TP2 Old Description=Test Point PC Slotted THM Height .335 Brass/Tin New Description=Test Point PC Slotted THM Height .335 Brass/Tin | Keystone Electronics 1035
+Change Component Description : Designator=TP3 Old Description=Test Point PC Slotted THM Height .335 Brass/Tin New Description=Test Point PC Slotted THM Height .335 Brass/Tin | Keystone Electronics 1035
+Change Component Description : Designator=TP4 Old Description=Test Point PC Slotted THM Height .335 Brass/Tin New Description=Test Point PC Slotted THM Height .335 Brass/Tin | Keystone Electronics 1035
+Change Component Description : Designator=TP5 Old Description=Test Point PC Slotted THM Height .335 Brass/Tin New Description=Test Point PC Slotted THM Height .335 Brass/Tin | Keystone Electronics 1035
+Added Pin To Net: NetName=3V3 Pin=C9-2
+Added Pin To Net: NetName=3V3 Pin=C13-2
+Added Pin To Net: NetName=D+ Pin=J1-A6
+Added Pin To Net: NetName=D- Pin=J1-A7
+Added Pin To Net: NetName=D+ Pin=J1-B6
+Added Pin To Net: NetName=D- Pin=J1-B7
+Added Pin To Net: NetName=3V3 Pin=U3-1
+Added Pin To Net: NetName=3V3 Pin=U5-10
+Added Pin To Net: NetName=3V3 Pin=U5-16

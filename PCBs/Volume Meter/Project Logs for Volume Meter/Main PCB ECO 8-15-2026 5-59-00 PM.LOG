@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=CLK Pin=U4-15
+Removed Pin From Net: NetName=OE Pin=U4-17
+Change Component Description : Designator=TP1 Old Description=Test Point PC Slotted THM Height .335 Brass/Tin New Description=Test Point PC Slotted THM Height .335 Brass/Tin | Keystone Electronics 1035
+Change Component Description : Designator=TP2 Old Description=Test Point PC Slotted THM Height .335 Brass/Tin New Description=Test Point PC Slotted THM Height .335 Brass/Tin | Keystone Electronics 1035
+Change Component Description : Designator=TP3 Old Description=Test Point PC Slotted THM Height .335 Brass/Tin New Description=Test Point PC Slotted THM Height .335 Brass/Tin | Keystone Electronics 1035
+Change Component Description : Designator=TP4 Old Description=Test Point PC Slotted THM Height .335 Brass/Tin New Description=Test Point PC Slotted THM Height .335 Brass/Tin | Keystone Electronics 1035
+Change Component Description : Designator=TP5 Old Description=Test Point PC Slotted THM Height .335 Brass/Tin New Description=Test Point PC Slotted THM Height .335 Brass/Tin | Keystone Electronics 1035
+Added Pin To Net: NetName=OE Pin=U4-15
+Added Pin To Net: NetName=CLK Pin=U4-17
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2

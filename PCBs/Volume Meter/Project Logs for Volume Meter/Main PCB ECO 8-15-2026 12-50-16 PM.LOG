@@ -1,0 +1,26 @@
+Add Component: Footprint Not Found VREG_TLV1117LV33DCYR
+Add Component: Footprint Not Found MODULE_ESP32-C3-WROOM-02-H4
+Added Pin To Net: NetName=3V3 Pin=TP1-TP
+Added Pin To Net: NetName=5V0 Pin=TP2-TP
+Added Pin To Net: NetName=GND Pin=TP3-TP
+Added Pin To Net: NetName=GND Pin=TP4-TP
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-3
+Add Pin To Net: Unknown Pin: Pin U4-4
+Add Pin To Net: Unknown Pin: Pin U4-7
+Add Pin To Net: Unknown Pin: Pin U4-9
+Add Pin To Net: Unknown Pin: Pin U4-11
+Add Pin To Net: Unknown Pin: Pin U4-12
+Add Pin To Net: Unknown Pin: Pin U4-13
+Add Pin To Net: Unknown Pin: Pin U4-14
+Add Pin To Net: Unknown Pin: Pin U4-15
+Add Pin To Net: Unknown Pin: Pin U4-16
+Add Pin To Net: Unknown Pin: Pin U4-17
+Add Pin To Net: Unknown Pin: Pin U4-18
+Add Class Member: Failed to add class member : Component U1 TLV1117LV33DCYR
+Add Class Member: Failed to add class member : Component U4 ESP32-C3-WROOM-02-N4

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=5V0 Pin=R19-1
+Change Component Description : Designator=TP1 Old Description=Test Point PC Slotted THM Height .335 Brass/Tin New Description=Test Point PC Slotted THM Height .335 Brass/Tin | Keystone Electronics 1035
+Added Pin To Net: NetName=3V3 Pin=R19-1
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
